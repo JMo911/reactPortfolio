@@ -1,0 +1,22 @@
+#picrow{
+    position: relative;
+}
+
+h2 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    max-height: 100%;
+}
+
+.jumbotron {
+    height: 100vh;
+}
+
+h3 {
+    text-align: left;
+    line-height: 1.4;
+}
